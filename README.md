@@ -1,7 +1,5 @@
 # URL Shortener
 
----
-
 Built with [Serverless Framework](https://serverless.com/).
 
 Deploy instruction:
@@ -15,4 +13,3 @@ git clone https://github.com/guihaojin/url-shortener.git
 # deploy to AWS
 sls deploy -s <stage>
 ```
-
