@@ -1,4 +1,6 @@
-# URL Shortener
+# Serverless URL Shortener
+
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 
 Built with [Serverless Framework](https://serverless.com/).
 
